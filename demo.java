@@ -1,1 +1,1 @@
-class java
+class java 1234
